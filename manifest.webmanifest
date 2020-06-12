@@ -2,7 +2,7 @@
   "name": "HGM Charts",
   "short_name": "HGMCharts",
   "theme_color": "#ffa000",
-  "background_color": "#fafafa",
+  "background_color": "#cf1313",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
