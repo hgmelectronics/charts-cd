@@ -1,0 +1,17 @@
+{
+  "name": "HGM Charts",
+  "short_name": "HGMCharts",
+  "theme_color": "#ffa000",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+        "src": "assets/icon/icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable any"
+    }
+  ]
+}
